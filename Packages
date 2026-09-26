@@ -38,8 +38,8 @@ dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
 Filename: debs/com.qq391160.pulloverplus_1.0.565.deb
-Size: 378736
-MD5sum: 55e56c16fc1b4d9005c29233bf848bf7
-SHA256: 29b43bbaaaf6ccb882fd15324a0345ef95eb0ced04dcf699c4a93eaabbaf8db6
+Size: 378288
+MD5sum: 19103fd3e9db83be85287e92dc3d9655
+SHA256: f6a8f973433976688b7fb88dd4e666f07fab7080e8f7af11a67d8fb5fbafb072
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
