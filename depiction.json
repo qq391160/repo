@@ -1,85 +1,40 @@
 {
   "minVersion": "0.1",
-  "tintColor": "#2AA198",
+  "headerImage": "https://qq391160.github.io/repo/banner.png",
   "tabs": [
     {
-      "class": "DepictionStackView",
       "tabname": "插件介绍",
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**CPU Sentry 温控哨兵** —— 为越狱 iPhone 打造的智能温控管理插件。\n\n注入温控守护进程，接管 CPU/GPU 频率与功率策略，让你在**省电**与**性能**之间自由切换。\n\n**功能亮点**\n\n- **三种常驻模式**：智能 / 低功耗 / 解除温控，一键切换\n- **游戏强制满频**：识别为游戏的 App 全程满频，其它 App 照常省电\n- **App 档位**：每个应用可单独钉「满频 / 低频率 / 原生 / 自动」\n- **状态浮窗**：实时显示「频率 · 模式 · 深度/提速」；字号 6~20 可调、可隐藏背景、长按锁定、浅色模式自动适配\n- **无操作深度省电** + **视频场景优化**\n- **一键自检**：30 秒体检，给出频率/温度报告\n- **定时切档**：按星期与时段自动切换档位\n- **保护项**：口袋过热 / 阳光暴晒 / 设备朝下自动锁屏 / 防温控暗屏\n"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "版本",
-          "text": "1.0.5"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "作者",
-          "text": "qq391160"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "包标识",
-          "text": "com.qq391160.thermal"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "适用环境",
-          "text": "roothide / rootless（iOS 15-17）"
+          "markdown": "**CPU Sentry 温控哨兵** —— 为越狱 iPhone 打造的智能温控管理插件。\n\n注入温控守护进程，接管 CPU/GPU 频率与功率策略，让你在**省电**与**性能**之间自由切换。\n\n**功能亮点**\n\n- **三种常驻模式**：智能 / 低功耗 / 解除温控，一键切换\n- **游戏强制满频**：识别为游戏的 App 全程满频，其它 App 照常省电\n- **App 档位**：每个应用可单独钉「满频 / 低频率 / 原生 / 自动」\n- **状态浮窗**：实时显示「频率 · 模式 · 深度/提速」；字号 6~20 可调、可隐藏背景、长按锁定、浅色模式自动适配\n- **无操作深度省电** + **视频场景优化**\n- **一键自检**：30 秒体检，给出频率/温度报告\n- **定时切档**：按星期与时段自动切换档位\n- **保护项**：口袋过热 / 阳光暴晒 / 设备朝下自动锁屏 / 防温控暗屏\n\n安装前建议先卸载旧的「CPU智能温控」；本包已内置自动替换。"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "安装前建议先卸载旧的「CPU智能温控」；本包已内置自动替换。"
+          "markdown": "**版本**　1.0.5\n\n**作者**　qq391160\n\n**包标识**　com.qq391160.cpusentry\n\n**适用环境**　roothide / rootless（iOS 15 - 17）"
         }
       ]
     },
     {
-      "class": "DepictionStackView",
       "tabname": "联系我们",
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "遇到问题、想反馈 bug、提建议，或者只是想说声谢谢 —— 都欢迎找我：\n\n**👉 [加我 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)**\n**👉 [发送邮件](mailto:391160@qq.com)**\n"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "QQ",
-          "text": "391160"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "邮箱",
-          "text": "391160@qq.com"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "发布源",
-          "text": "木子清风（唯一官方渠道）"
+          "markdown": "**联系作者**\n\n遇到问题、想反馈 bug、提建议，都欢迎找我：\n\n**👉 [加我 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)**\n\n**👉 [发送邮件](mailto:391160@qq.com)**\n\nQQ：391160　｜　邮箱：391160@qq.com"
         }
       ]
     },
     {
-      "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.0.5 · 2026-09-26\n- 修复悬浮窗偶发显示 —M（状态文件改为原子写 + 读空保持上一帧）\n- 包描述文案精简\n"
+          "markdown": "## 1.0.5 · 2026-09-26\n- 修复悬浮窗偶发显示 —M（状态文件改为原子写 + 读空保持上一帧）\n- 包描述文案精简"
         }
       ]
     }
-  ],
-  "headerImage": "https://qq391160.github.io/repo/banner.png"
+  ]
 }
