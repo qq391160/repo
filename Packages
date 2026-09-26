@@ -9,9 +9,9 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
 Version: 1.4.0
 Filename: debs/com.qq391160.cpusentry_1.4.0_iphoneos-arm64e.deb
-Size: 280872
-MD5sum: 6a6e8c002549e0295d7d51f08177310c
-SHA256: 2026467ff30b3af03c43b8f1bd27f7f84e5026c821d9665cc681b340bc4f9d12
+Size: 281016
+MD5sum: 868fce2072c0ef11facd0f95ddca6a52
+SHA256: 636ed49dba5a85209e19c664749d01786bba4b16791a4479ad7ab466d232603a
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -26,9 +26,9 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
 Version: 1.4.0
 Filename: debs/com.qq391160.cpusentry_1.4.0_iphoneos-arm64.deb
-Size: 281148
-MD5sum: adfad743f317152f4d3c23c95f472c81
-SHA256: c7c5629a93e5001c012e55bc059773c4a95f55fb79920a23102b58fd655a91da
+Size: 282260
+MD5sum: a779012fa87ce4bb5d70fde3a97d06a4
+SHA256: 21f81789715fdaac35b048181a61b7755c19574424ef42d56228845aa5d18aeb
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -46,9 +46,9 @@ dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
 Filename: debs/com.qq391160.pulloverplus_1.0.566_iphoneos-arm64e.deb
-Size: 378076
-MD5sum: e31e47d088a2c9a59bccd4b21a13ea64
-SHA256: fb37150c07f23d4146ea59ef9d39af1d0a249cacbbd7403c8aac5d8399bac208
+Size: 378456
+MD5sum: 6299d03bfeb42399cb620467cbbe078d
+SHA256: 9ae0d74cc3aaeee56ee58ffa78a3fe2119cbb5583171a766d36ee123ff7c551a
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
 
@@ -66,8 +66,8 @@ dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
 Filename: debs/com.qq391160.pulloverplus_1.0.566_iphoneos-arm64.deb
-Size: 378840
-MD5sum: a65e6bbfa7a9981ee1bdc78c51da0be6
-SHA256: 7eada12ce62c48c46a2acee1d49980560fb6be0e5b7b6aad18dc4225c6193b51
+Size: 378296
+MD5sum: 968fe45ee3da4df95a055bf9dcd8f255
+SHA256: e8a3525c089c53d393bd54170ed9698ee41ca887c3a94f7f98f4fcd16f4b6d90
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json

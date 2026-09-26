@@ -1,0 +1,43 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "tintColor": "#2AA198",
+  "headerImage": "https://qq391160.github.io/repo/banner.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "介绍",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**木子清风** —— qq391160 的插件源。\n\n木子为李，清风自来。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "作者",
+          "text": "qq391160"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "插件数",
+          "text": "2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "支持环境",
+          "text": "roothide / rootless（双架构）"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**联系我：**  [加 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)  ｜  [发送邮件](mailto:391160@qq.com)"
+        }
+      ]
+    }
+  ]
+}
