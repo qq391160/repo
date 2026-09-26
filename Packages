@@ -1,0 +1,21 @@
+Package: com.qq391160.thermal
+Name: CPU Sentry 温控哨兵
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。
+ 智能：游戏满频、应用低频率、桌面原生、滑动提速、熄屏省电；
+ 低功耗：全局省电，可放行个别应用；
+ 解除温控：全局满频，可单独压低指定应用；
+ 每个应用可单独设置档位。
+Depends: mobilesubstrate, preferenceloader
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal
+Replaces: com.huayuarc.cputhermal
+Icon: https://raw.githubusercontent.com/qq391160/cputhermal-assets/main/IMG_1132.png
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Installed-Size: 2340
+Filename: debs/com.qq391160.thermal_1.0.5.deb
+Size: 281078
+MD5sum: d03d3881c469eaa0c269b84a0f408708
+SHA256: 52e7a4f2751f3387d4d775c083f61c26963e93576e16a4f3aaa6caf125d048e9

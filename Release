@@ -1,0 +1,8 @@
+Origin: qq391160
+Label: CPU Sentry 温控哨兵
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm
+Components: main
+Description: qq391160 的插件源
