@@ -3,6 +3,15 @@ Label: 木子清风
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm
+Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 木子为李，清风自来。
+Date: %a, %d %b %Y %H:%M:%S UTC
+MD5Sum:
+ e69a15dfde8fcfe2e37392003e0b37eb 1787 Packages
+ 9088e115e6fe655ff7ba6877ed5cc6e2 1046 Packages.bz2
+ f3415ec1859ae25e51e5c9280116643e 941 Packages.gz
+SHA256:
+ c01923e841a74f2330c63efce86ee2c14e3308e75cfb153cc40de48992dbf0e1 1787 Packages
+ e34476b7548cbac84ac109629ef0eff8c8e1288e4ca7e81a09802b96e1ca936c 1046 Packages.bz2
+ 58d20eb9ae4dbc86e6a01e9a1306d8f20f7ea7b1c78cf6071532cc99578df08e 941 Packages.gz

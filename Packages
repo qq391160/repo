@@ -16,24 +16,6 @@ SHA256: 4f555251a01f834e23fc68efbabf5a4f8b03fce1eb55a0a9e34f4a812baa38f1
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
-Package: com.qq391160.cpusentry
-Name: CPU Sentry
-Author: qq391160
-Description: 三种模式一键切换的智能温控管理。 智能：游戏满频、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 解除温控：全局满频，可单独压低指定应用； 每个应用可单独设置档位。
-Maintainer: qq391160
-Section: Tweaks
-Priority: optional
-Icon: https://qq391160.github.io/repo/icons/thermal.png
-Architecture: iphoneos-arm64
-Version: 1.4.0
- 联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
-Filename: debs/com.qq391160.cpusentry_1.4.0_iphoneos-arm64.deb
-Size: 281032
-MD5sum: 246a2f80d661bed5d71c973a5d5f8e67
-SHA256: f39dbd9016ff834f905e9789c5100dcbd19c98d726a643b3e59fe96fce7a1783
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
-
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
 Version: 1.0.566
@@ -51,25 +33,5 @@ Filename: debs/com.qq391160.pulloverplus_1.0.566_iphoneos-arm64e.deb
 Size: 378848
 MD5sum: 1fc219f32e2bb49332a6156d50afed3a
 SHA256: 412fc5f0e3872ab132285a8095492e6046246eab9fd772a0c872d6bf83befcff
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
-
-Package: com.qq391160.pulloverplus
-Name: PullOver Plus
-Version: 1.0.566
-Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
-Section: Tweaks
-Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
-Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
-Priority: optional
-Architecture: iphoneos-arm64
-Author: qq391160（基于 mlgm 的 PullOver X）
-dev: mlgm
-Icon: https://mlgm66.github.io/icon/pullover.png
-Maintainer: qq391160
-Filename: debs/com.qq391160.pulloverplus_1.0.566_iphoneos-arm64.deb
-Size: 378856
-MD5sum: aa50a1beac47e4b7130abc4d61330c87
-SHA256: 4e5441a79081ef637915b581c64aa163c435ea62d5c6c12dad9e30bb60968e1c
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
