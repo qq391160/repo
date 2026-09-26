@@ -1,0 +1,78 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "tintColor": "#2AA198",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**PullOver Plus** —— 分屏 / 多任务增强插件：把任意 App 拖出来变成可移动的小窗，随手切换、随时并排。\n\n本版由 **qq391160** 维护（基于 **PullOver X**（原作者 mlgm）与 PullOver Pro 修改）。\n\n**功能亮点**\n\n- **左侧「收藏」栏 + 底部「最近」列表**：一键切换分屏应用\n- **红圈标记**：跟手标出当前正在分屏的 App\n- **两栏动画同步**：淡入更顺滑、不再\"打架\"\n- **安静模式**：已移除全部震动反馈\n- **拦截误触**：按到操作按钮不再飞出相机/截屏\n- **隐藏过渡快照**：切换时不留残影\n\n**安装说明**\n\n- 依赖 **AltList**（`com.opa334.altlist`），请先在 Sileo 里装好\n- 适用环境：roothide / rootless（iOS 14+）\n- 装本包会自动替换旧的 PullOver Pro / PullOver Plus\n"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "1.0.565"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "作者",
+          "text": "qq391160（基于 mlgm 的 PullOver X）"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "包标识",
+          "text": "com.qq391160.pulloverplus"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "依赖",
+          "text": "AltList（com.opa334.altlist）"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "联系我们",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "遇到问题、想反馈 bug、提建议，都欢迎找我：\n\n**👉 [加我 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)**\n**👉 [发送邮件](mailto:391160@qq.com)**\n"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "QQ",
+          "text": "391160"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "邮箱",
+          "text": "391160@qq.com"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "发布源",
+          "text": "木子清风（唯一官方渠道）"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.565\n- 基于 PullOver X（原作者 mlgm）修改的增强版\n- 左侧「收藏」栏 + 底部「最近」列表\n- 红圈跟随当前分屏应用\n- 两栏淡入动画同步\n- 移除震动反馈 / 拦截操作按钮误触 / 隐藏过渡快照\n"
+        }
+      ]
+    }
+  ]
+}

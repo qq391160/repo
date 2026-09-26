@@ -6,19 +6,40 @@ Description: 三种模式一键切换的智能温控管理。
  低功耗：全局省电，可放行个别应用；
  解除温控：全局满频，可单独压低指定应用；
  每个应用可单独设置档位。
- 联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
 Depends: mobilesubstrate, preferenceloader
 Maintainer: qq391160
 Section: Tweaks
 Conflicts: com.huayuarc.cputhermal
 Replaces: com.huayuarc.cputhermal
 Icon: https://raw.githubusercontent.com/qq391160/cputhermal-assets/main/IMG_1132.png
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Architecture: iphoneos-arm64
 Version: 1.0.5
 Installed-Size: 2340
+ 联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
 Filename: debs/com.qq391160.thermal_1.0.5.deb
 Size: 281078
 MD5sum: d03d3881c469eaa0c269b84a0f408708
 SHA256: 52e7a4f2751f3387d4d775c083f61c26963e93576e16a4f3aaa6caf125d048e9
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
+Package: com.qq391160.pulloverplus
+Name: PullOver Plus
+Version: 1.0.565
+Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Priority: optional
+Architecture: iphoneos-arm64
+Author: qq391160（基于 mlgm 的 PullOver X）
+dev: mlgm
+Icon: https://mlgm66.github.io/icon/pullover.png
+Maintainer: qq391160
+Filename: debs/com.qq391160.pulloverplus_1.0.565.deb
+Size: 378736
+MD5sum: 55e56c16fc1b4d9005c29233bf848bf7
+SHA256: 29b43bbaaaf6ccb882fd15324a0345ef95eb0ced04dcf699c4a93eaabbaf8db6
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
