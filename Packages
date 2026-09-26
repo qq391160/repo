@@ -1,5 +1,5 @@
 Package: com.qq391160.cpusentry
-Name: CPU Sentry
+Name: CPU Sentry 温控哨兵
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏满频、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 解除温控：全局满频，可单独压低指定应用； 每个应用可单独设置档位。
 Maintainer: qq391160
@@ -16,7 +16,7 @@ Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpusentry
-Name: CPU Sentry
+Name: CPU Sentry 温控哨兵
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏满频、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 解除温控：全局满频，可单独压低指定应用； 每个应用可单独设置档位。
 Maintainer: qq391160

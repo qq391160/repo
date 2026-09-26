@@ -1,8 +1,10 @@
 {
+  "class": "DepictionTabView",
   "minVersion": "0.1",
   "headerImage": "https://qq391160.github.io/repo/banner.png",
   "tabs": [
     {
+      "class": "DepictionStackView",
       "tabname": "插件介绍",
       "views": [
         {
@@ -19,6 +21,7 @@
       ]
     },
     {
+      "class": "DepictionStackView",
       "tabname": "联系我们",
       "views": [
         {
@@ -28,6 +31,7 @@
       ]
     },
     {
+      "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
         {
