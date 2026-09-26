@@ -13,13 +13,13 @@ Conflicts: com.huayuarc.cputhermal
 Replaces: com.huayuarc.cputhermal
 Icon: https://raw.githubusercontent.com/qq391160/cputhermal-assets/main/IMG_1132.png
 Architecture: iphoneos-arm64
-Version: 1.0.5
+Version: 1.0.6
 Installed-Size: 2340
  联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
-Filename: debs/com.qq391160.thermal_1.0.5.deb
-Size: 281288
-MD5sum: 28c849e43daae2473fee6ecaeeddd6aa
-SHA256: 1dfd3792a6b5042e228c0e6bd1215392386a081ae0524f777090455305385ce8
+Filename: debs/com.qq391160.thermal_1.0.6.deb
+Size: 281128
+MD5sum: fc204e5ef5186ecdf27167c649906f06
+SHA256: 96a449cbd9eff96b2685b61d57ec717283f542d168fbc88a5912afaf9e5deb59
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
