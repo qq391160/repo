@@ -12,6 +12,7 @@ Section: Tweaks
 Conflicts: com.huayuarc.cputhermal
 Replaces: com.huayuarc.cputhermal
 Icon: https://raw.githubusercontent.com/qq391160/cputhermal-assets/main/IMG_1132.png
+Depiction: https://qq391160.github.io/repo/depiction.html
 Architecture: iphoneos-arm64
 Version: 1.0.5
 Installed-Size: 2340

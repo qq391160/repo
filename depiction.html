@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CPU Sentry 温控哨兵 · 详情</title>
+<style>
+  :root{--bg:#0b0f14;--card:#121924;--line:#1e2a38;--fg:#e8eef5;--sub:#8aa0b5;--accent:#3ea6ff;}
+  @media (prefers-color-scheme: light){:root{--bg:#f6f8fb;--card:#fff;--line:#e3e9f0;--fg:#111a22;--sub:#61748a;--accent:#0a84ff;}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.7 -apple-system,"PingFang SC",Helvetica,sans-serif;padding:22px 18px 40px}
+  .wrap{max-width:640px;margin:0 auto}
+  .hero{display:flex;gap:14px;align-items:center;margin-bottom:6px}
+  .hero img{width:76px;height:76px;border-radius:18px;background:#0e1621;padding:8px}
+  .hero h1{font-size:22px;margin:0 0 4px}
+  .hero .by{color:var(--sub);font-size:14px}
+  .badge{display:inline-block;background:var(--accent);color:#fff;border-radius:999px;padding:3px 12px;font-size:13px;font-weight:600;margin-left:8px;vertical-align:2px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:14px 0}
+  h2{font-size:17px;margin:0 0 10px;display:flex;align-items:center;gap:8px}
+  h2 .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);display:inline-block}
+  ul{margin:6px 0 0;padding-left:20px} li{margin:5px 0}
+  .sub{color:var(--sub);font-size:14px}
+  .row{display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px dashed var(--line)}
+  .row:last-child{border-bottom:0}
+  .btn{display:block;text-align:center;background:var(--accent);color:#fff;text-decoration:none;border-radius:12px;padding:13px;font-weight:600;margin-top:10px}
+  .btn.ghost{background:transparent;border:1px solid var(--line);color:var(--fg)}
+  .v{font-weight:700;color:var(--accent)}
+  code{background:rgba(127,209,255,.12);color:#7fd1ff;padding:2px 7px;border-radius:6px;font-size:14px}
+  .foot{color:var(--sub);font-size:13px;text-align:center;margin-top:22px}
+  .tag{display:inline-block;background:rgba(62,166,255,.14);color:var(--accent);border-radius:8px;padding:2px 9px;font-size:13px;margin-right:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <img src="CydiaIcon.png" alt="icon">
+    <div>
+      <h1>CPU Sentry 温控哨兵<span class="badge">1.0.5</span></h1>
+      <div class="by">作者：qq391160 ｜ 源：木子清风</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2><span class="dot"></span>这是什么</h2>
+    <p>一款为越狱 iPhone 打造的<b>智能温控管理</b>插件：注入温控守护进程，接管 CPU/GPU 频率与功率策略，让你在<b>省电</b>与<b>性能</b>之间自由切换。</p>
+    <div><span class="tag">三种模式</span><span class="tag">游戏满频</span><span class="tag">悬浮窗</span><span class="tag">定时切档</span></div>
+  </div>
+
+  <div class="card">
+    <h2><span class="dot"></span>功能亮点</h2>
+    <ul>
+      <li><b>三种常驻模式</b>：智能 / 低功耗 / 解除温控，一键切换</li>
+      <li><b>游戏强制满频</b>：识别为游戏的 App 全程满频，其它 App 照常省电</li>
+      <li><b>App 档位</b>：每个应用可单独钉「满频 / 低频率 / 原生 / 自动」</li>
+      <li><b>状态浮窗</b>：实时显示「频率 · 模式 · 深度/提速」，字号 6~20 可调、可隐藏背景、长按锁定位置、浅色模式自动适配</li>
+      <li><b>无操作深度省电</b> + <b>视频场景优化</b></li>
+      <li><b>一键自检</b>：30 秒体检，给出频率/温度报告</li>
+      <li><b>定时切档</b>：按星期与时段自动切换档位</li>
+      <li><b>保护项</b>：口袋过热 / 阳光暴晒 / 设备朝下自动锁屏 / 防温控暗屏</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2><span class="dot"></span>安装说明</h2>
+    <div class="row"><span>适用环境</span><span class="sub">roothide / rootless（iOS 15 - 17）</span></div>
+    <div class="row"><span>包标识</span><span class="sub">com.qq391160.thermal</span></div>
+    <div class="row"><span>作者</span><span class="sub">qq391160</span></div>
+    <p class="sub" style="margin-top:10px">安装前建议先卸载旧的「CPU智能温控」；本包已内置自动替换，装新包时会自动移除旧插件。</p>
+    <a class="btn" href="sileo://source/https://qq391160.github.io/repo/">添加到 Sileo</a>
+    <a class="btn ghost" href="https://qq391160.github.io/repo/">打开源首页</a>
+  </div>
+
+  <div class="card">
+    <h2><span class="dot"></span>更新日志</h2>
+    <p><span class="v">1.0.5 · 2026-09-26</span></p>
+    · 修复悬浮窗偶发显示 —M（状态文件改为原子写 + 读空保持上一帧）<br>
+    · 包描述文案精简<br>
+    <p><span class="v">1.0.3 · 2026-09-26</span></p>
+    · 新增「游戏强制满频」（默认开启，三种模式下均生效，熄屏仍省电）<br>
+    · 字符串加密：隐藏私有 API 调用名（热模拟 / CPU 频率接口等）<br>
+    · 安装新包时自动替换旧插件（Conflicts / Replaces）<br>
+    <p><span class="v">1.0.1 · 2026-09-26</span></p>
+    · 品牌与包名迁移：com.qq391160.thermal，作者 qq391160<br>
+    · 版本号从 1.0.1 重新起算<br>
+  </div>
+
+  <div class="card">
+    <h2><span class="dot"></span>联系作者</h2>
+    <p class="sub">使用中遇到问题、想反馈 bug 或提建议，都可以找我：</p>
+    <a class="btn" href="https://qm.qq.com/q/VyLa5l8g2m">加我 QQ 好友</a>
+    <p class="sub" style="margin-top:12px">邮箱：<a href="mailto:391160@qq.com" style="color:var(--accent)">391160@qq.com</a></p>
+  </div>
+
+  <div class="foot">© 2026 qq391160 · 木子清风源<br>本插件仅供个人学习与自用，请勿二次分发或用于商业用途。</div>
+</div>
+</body>
+</html>
