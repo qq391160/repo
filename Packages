@@ -10,15 +10,15 @@ Maintainer: qq391160
 Section: Tweaks
 Conflicts: com.huayuarc.cputhermal
 Replaces: com.huayuarc.cputhermal
-Icon: https://raw.githubusercontent.com/qq391160/cputhermal-assets/main/IMG_1132.png
+Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 1.0.8
+Version: 1.0.9
 Installed-Size: 2340
  联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
-Filename: debs/com.qq391160.thermal_1.0.8.deb
-Size: 281196
-MD5sum: d214d5fdcfd537bda9dcbcd7905b467f
-SHA256: 8f6870156b35776793109583a13e77b2236157d2e5153cf6e7d9dea7ce160028
+Filename: debs/com.qq391160.thermal_1.0.9.deb
+Size: 281268
+MD5sum: 251faca84a1c30f42c5bacbb4394c78a
+SHA256: eda2052313e4c0b8aa601ed41b55b69aaa34892f3cc674312d90fa7a7b0423de
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
