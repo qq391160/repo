@@ -6,7 +6,8 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 木子为李，清风自来。
-Date: Sat, 26 Sep 2026 22:07:50 UTC
+SileoDepiction: https://qq391160.github.io/repo/source.json
+Date: Sat, 26 Sep 2026 22:16:51 UTC
 MD5Sum:
  1428517533d45eae1733aa6ef0b68da5 3415 Packages
  7079937019c7391dee839d80f50e5fc5 1228 Packages.bz2
