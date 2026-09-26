@@ -6,6 +6,7 @@ Description: 三种模式一键切换的智能温控管理。
  低功耗：全局省电，可放行个别应用；
  解除温控：全局满频，可单独压低指定应用；
  每个应用可单独设置档位。
+ 联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
 Depends: mobilesubstrate, preferenceloader
 Maintainer: qq391160
 Section: Tweaks
@@ -13,6 +14,7 @@ Conflicts: com.huayuarc.cputhermal
 Replaces: com.huayuarc.cputhermal
 Icon: https://raw.githubusercontent.com/qq391160/cputhermal-assets/main/IMG_1132.png
 Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Architecture: iphoneos-arm64
 Version: 1.0.5
 Installed-Size: 2340
