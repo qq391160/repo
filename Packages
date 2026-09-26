@@ -1,4 +1,4 @@
-Package: com.qq391160.thermal
+Package: com.qq391160.cpusentry
 Name: CPU Sentry
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。
@@ -10,13 +10,13 @@ Maintainer: qq391160
 Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
-Architecture: iphoneos-arm64
-Version: 1.2.0
+Architecture: iphoneos-arm64e
+Version: 1.4.0
  联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
-Filename: debs/com.qq391160.thermal_1.2.0.deb
-Size: 281144
-MD5sum: 4d0abeef0da095d46799fac6d0f37d06
-SHA256: 63ccd1548e6ef6ac2496ffacccbcd32ac1687b253b1c149a1dfa3728212be2de
+Filename: debs/com.qq391160.cpusentry_1.4.0.deb
+Size: 280848
+MD5sum: 3773271d4b39aa9c12703a9feca9d23c
+SHA256: 80eccde10212542883dd5825c72f206e4d24d0a9c7fc82aebca2c284fe3b14dc
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
