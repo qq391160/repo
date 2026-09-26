@@ -16,7 +16,7 @@ Architecture: iphoneos-arm64
 Version: 1.0.5
 Installed-Size: 2340
  联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
-Filename: debs/com.qq391160.thermal_1.0.5.deb
+Filename: debs/CPU-Sentry_1.0.5_arm64.deb
 Size: 281078
 MD5sum: d03d3881c469eaa0c269b84a0f408708
 SHA256: 52e7a4f2751f3387d4d775c083f61c26963e93576e16a4f3aaa6caf125d048e9
