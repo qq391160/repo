@@ -8,17 +8,15 @@ Description: 三种模式一键切换的智能温控管理。
  每个应用可单独设置档位。
 Maintainer: qq391160
 Section: Tweaks
-Conflicts: com.huayuarc.cputhermal
-Replaces: com.huayuarc.cputhermal
+Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 1.1.0
-Installed-Size: 2340
+Version: 1.2.0
  联系作者：QQ 391160（加好友链接 https://qm.qq.com/q/VyLa5l8g2m）
-Filename: debs/com.qq391160.thermal_1.1.0.deb
-Size: 280868
-MD5sum: af9a14b4fc167dd57818a5be0adb0abb
-SHA256: 1521b374cbfa27e6a8ab10f5b71ea29948fd9f86962c215beaed4f81c8a308f6
+Filename: debs/com.qq391160.thermal_1.2.0.deb
+Size: 281144
+MD5sum: 4d0abeef0da095d46799fac6d0f37d06
+SHA256: 63ccd1548e6ef6ac2496ffacccbcd32ac1687b253b1c149a1dfa3728212be2de
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
