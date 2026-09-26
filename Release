@@ -6,12 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 木子为李，清风自来。
-Date: %a, %d %b %Y %H:%M:%S UTC
+Date: Sat, 26 Sep 2026 21:19:24 UTC
 MD5Sum:
- e69a15dfde8fcfe2e37392003e0b37eb 1787 Packages
- 9088e115e6fe655ff7ba6877ed5cc6e2 1046 Packages.bz2
- f3415ec1859ae25e51e5c9280116643e 941 Packages.gz
+ c6e7fe3a01b54bf86c9df1ae69e10830 1709 Packages
+ 9a852028c86d2d437124fc7dd32d2820 982 Packages.bz2
+ 9cca2f62926de051be4067c8f2347db7 887 Packages.gz
 SHA256:
- c01923e841a74f2330c63efce86ee2c14e3308e75cfb153cc40de48992dbf0e1 1787 Packages
- e34476b7548cbac84ac109629ef0eff8c8e1288e4ca7e81a09802b96e1ca936c 1046 Packages.bz2
- 58d20eb9ae4dbc86e6a01e9a1306d8f20f7ea7b1c78cf6071532cc99578df08e 941 Packages.gz
+ 487be6575ada3e2f971690e2ba5dc2beb12a966fe2bba8e452d3c500035b30ef 1709 Packages
+ eef5dd2f742f3f7cbd67ad8fc75494c5303cf32a43cf6cdc5cecbdc715dcb2a5 982 Packages.bz2
+ d381af5606195cc325f11896debece8f65f8fb5d4174c38a7fdf8327aa5c5b88 887 Packages.gz
