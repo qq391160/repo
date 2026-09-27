@@ -7,11 +7,11 @@ Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
-Version: 1.4.4
-Filename: debs/com.qq391160.cpusentry_1.4.4_iphoneos-arm64e.deb
-Size: 309538
-MD5sum: a99429637d8de1e42516645322f8ec1e
-SHA256: c0d356c0fa7ca4112beadc774169ff8e6c738ad2419849d60b8f0723ce4a2cca
+Version: 1.4.5
+Filename: debs/com.qq391160.cpusentry_1.4.5_iphoneos-arm64e.deb
+Size: 311194
+MD5sum: dd9edca9a0e246d7f3808a56518e4101
+SHA256: e7633cf9fcaa633aeb7ca35aee6be3729285456cbf3b6e5bb880ff5578f5bdf6
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -24,11 +24,11 @@ Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 1.4.4
-Filename: debs/com.qq391160.cpusentry_1.4.4_iphoneos-arm64.deb
-Size: 309522
-MD5sum: f1ab7edf3f9ace50e887809382b9dfd3
-SHA256: 5878327e05ee986d0418373a6fcf75d7fc6c8203eb7e22bdebc817a53d3eb939
+Version: 1.4.5
+Filename: debs/com.qq391160.cpusentry_1.4.5_iphoneos-arm64.deb
+Size: 311178
+MD5sum: 8da5e6c9241592ca5767097725d318f2
+SHA256: 4664e95d63dc11a71be0bc7478c617a2e86d7ffc90cb718f9504c50101ae0052
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
