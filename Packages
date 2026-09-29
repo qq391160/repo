@@ -9,9 +9,9 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
 Version: 1.4.8
 Filename: debs/com.qq391160.cpusentry_1.4.8_iphoneos-arm64e.deb
-Size: 390832
-MD5sum: d2a53abf24d02508370fb31c1ccceedc
-SHA256: 11e864ae96f76c594b4ee6e57c6583ff7f65539c283f2b9479b0015ed3932365
+Size: 391200
+MD5sum: 2aa9d303694962735e31215964a64c52
+SHA256: d0d57e38cf6121937de277a3b2e3b1b47d277f2e4e639c8bc3db1f9d1a47cc8f
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -26,9 +26,9 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
 Version: 1.4.8
 Filename: debs/com.qq391160.cpusentry_1.4.8_iphoneos-arm64.deb
-Size: 390820
-MD5sum: 70c0efd33aeceb669f50235472796e9b
-SHA256: f94e9fb147cf505aa2349dc6bfa4d5e9cb18edbc54023d2657ad6c6f0d3d3f6e
+Size: 391186
+MD5sum: 61c2ad9461c161ec5a24149199e366ab
+SHA256: 6663d3447b868d9f2116151c3bf5148659478622cb820d7b08d9d3e1720420ff
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -71,4 +71,3 @@ MD5sum: 968fe45ee3da4df95a055bf9dcd8f255
 SHA256: e8a3525c089c53d393bd54170ed9698ee41ca887c3a94f7f98f4fcd16f4b6d90
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
-
