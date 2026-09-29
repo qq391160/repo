@@ -1,34 +1,34 @@
 Package: com.qq391160.cpusentry
-Name: CPU Sentry 温控哨兵
+Name: CPU 智能温控
 Author: qq391160
-Description: 三种模式一键切换的智能温控管理。 智能：游戏满频、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 解除温控：全局满频，可单独压低指定应用； 每个应用可单独设置档位。
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
 Maintainer: qq391160
 Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
-Version: 1.4.5
-Filename: debs/com.qq391160.cpusentry_1.4.5_iphoneos-arm64e.deb
-Size: 311194
-MD5sum: dd9edca9a0e246d7f3808a56518e4101
-SHA256: e7633cf9fcaa633aeb7ca35aee6be3729285456cbf3b6e5bb880ff5578f5bdf6
+Version: 1.4.7
+Filename: debs/com.qq391160.cpusentry_1.4.7_iphoneos-arm64e.deb
+Size: 381548
+MD5sum: 4b65ab320446e6a865379dc60c6ab6d7
+SHA256: 602276988861217bc7c4e54026d1558efb8cb7279d2ae106ba19cc1617b09214
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpusentry
-Name: CPU Sentry 温控哨兵
+Name: CPU 智能温控
 Author: qq391160
-Description: 三种模式一键切换的智能温控管理。 智能：游戏满频、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 解除温控：全局满频，可单独压低指定应用； 每个应用可单独设置档位。
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
 Maintainer: qq391160
 Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 1.4.5
-Filename: debs/com.qq391160.cpusentry_1.4.5_iphoneos-arm64.deb
-Size: 311178
-MD5sum: 8da5e6c9241592ca5767097725d318f2
-SHA256: 4664e95d63dc11a71be0bc7478c617a2e86d7ffc90cb718f9504c50101ae0052
+Version: 1.4.7
+Filename: debs/com.qq391160.cpusentry_1.4.7_iphoneos-arm64.deb
+Size: 381530
+MD5sum: 0b2eb6d771b030f0d7a726fe253b10a1
+SHA256: d31207157eb86dc3a23ea004866c095afda972df47c524c035bd684a28954918
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
