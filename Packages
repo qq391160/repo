@@ -1,4 +1,4 @@
-Package: com.qq391160.cpusentry
+Package: com.qq391160.cpucore
 Name: CPU 智能温控
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
@@ -7,15 +7,15 @@ Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
-Version: 1.4.12
-Filename: debs/com.qq391160.cpusentry_1.4.12_iphoneos-arm64e.deb
-Size: 402044
-MD5sum: 1783f0540e8ccb9d4813f13790442c9e
-SHA256: c239dd8736ed708ad0b8569bbd552eb2c9d46bad8df18ae2fb188f2befd1fb03
+Version: 1.4.14
+Filename: debs/com.qq391160.cpucore_1.4.14_iphoneos-arm64e.deb
+Size: 425296
+MD5sum: 2ead233140793b76563adf7a1bc34bc2
+SHA256: 9ae8b870ffc8fb7f5f391d3568b298be3780c094a5d4ba4a8b74a2497e4bac82
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
-Package: com.qq391160.cpusentry
+Package: com.qq391160.cpucore
 Name: CPU 智能温控
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
@@ -24,11 +24,11 @@ Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 1.4.12
-Filename: debs/com.qq391160.cpusentry_1.4.12_iphoneos-arm64.deb
-Size: 402024
-MD5sum: eec657951dc11bcd707350fc110baa34
-SHA256: 8811564ded0b12e8f8caf0d9b447f5ce6097e860b0762814cf47f158f5afbb74
+Version: 1.4.14
+Filename: debs/com.qq391160.cpucore_1.4.14_iphoneos-arm64.deb
+Size: 425254
+MD5sum: f2af268a20e57c07e5fc35c18eb75cb7
+SHA256: 848709caf193d09c43a65ba297d1214a6484d0eb8ff4c44ff6f4a79c5598ba98
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -71,4 +71,3 @@ MD5sum: 968fe45ee3da4df95a055bf9dcd8f255
 SHA256: e8a3525c089c53d393bd54170ed9698ee41ca887c3a94f7f98f4fcd16f4b6d90
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
-
