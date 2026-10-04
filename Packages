@@ -1,5 +1,5 @@
 Package: com.qq391160.cpucore
-Name: CPU 智能温控
+Name: CPU智能温控(iOS16/17)
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
 Maintainer: qq391160
@@ -7,16 +7,16 @@ Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
-Version: 1.4.20
-Filename: debs/com.qq391160.cpucore_1.4.20_iphoneos-arm64e.deb
-Size: 433026
-MD5sum: 6fd75afdde64372c149beaf47a1cde4f
-SHA256: b420ecf8f550c6f1d7941cfc8c84c7ca2846358365c3d1350fea739aac14b226
+Version: 1.4.81
+Filename: debs/com.qq391160.cpucore_1.4.81_iphoneos-arm64e.deb
+Size: 438374
+MD5sum: 43b653072c29ffc0050bbb006475469d
+SHA256: a8b6e99b5918fa99a259b673d5078e4f42b3b7e7c92b1790ac56440edcf390e2
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
-Name: CPU 智能温控
+Name: CPU智能温控(iOS16/17)
 Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
 Maintainer: qq391160
@@ -24,11 +24,11 @@ Section: Tweaks
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 1.4.20
-Filename: debs/com.qq391160.cpucore_1.4.20_iphoneos-arm64.deb
-Size: 432988
-MD5sum: 2932397d233ba36a37dcf10700666200
-SHA256: 3e3ef712c200d191abefb4a682d4a794757112da77828d2b81abc8ec22952f87
+Version: 1.4.81
+Filename: debs/com.qq391160.cpucore_1.4.81_iphoneos-arm64.deb
+Size: 438334
+MD5sum: d54a22c37a2a17106f984dd5b1120182
+SHA256: 2129d561b2156005eeaed02c1ebb487e36fd91f179f947d2c4a46c051f5d9231
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
