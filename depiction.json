@@ -36,7 +36,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.4.81 · 2026-10-04\n- 修复已知问题"
+          "markdown": "## 1.4.81 · 2026-10-04\n- 新增部分功能，修复已知问题"
         }
       ]
     }
