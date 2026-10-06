@@ -1,3 +1,37 @@
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Filename: debs/com.qq391160.cpucore_2.0.2_iphoneos-arm64e.deb
+Size: 453018
+MD5sum: 8e6d73cb4df9c00ab3a4b11afab1fc1e
+SHA256: 460c38c05b0d738ce21fe255e0752c4b355be4c3088dd6783d31f968917c1e96
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Architecture: iphoneos-arm64
+Version: 2.0.2
+Filename: debs/com.qq391160.cpucore_2.0.2_iphoneos-arm64.deb
+Size: 459186
+MD5sum: 3bda2fcee0841b471f028f68558d30f3
+SHA256: 992c09c2923e8e88cd72b64a613f8edf596e1f929b124be97a74fc62e272463b
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
 Version: 1.0.566
