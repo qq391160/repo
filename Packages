@@ -13,9 +13,9 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
 Version: 2.0.3
 Filename: debs/com.qq391160.cpucore_2.0.3_iphoneos-arm64e.deb
-Size: 1249206
-MD5sum: 6bfd9ee959778a1da26be26473b1b66e
-SHA256: 6e3a73661fc43fb1d4bb1e8a43323c2846bf1ff02181ed166b192f63a1020e54
+Size: 1667542
+MD5sum: 1899ef7f0350b8b2e615ef16163bf46e
+SHA256: 674db7808238020c7bb9b351d6c7ec6bce4ba70559c2f2f30426d5b7703259a6
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
