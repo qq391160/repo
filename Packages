@@ -54,9 +54,9 @@ dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
 Filename: debs/com.qq391160.pulloverplus_1.0.565_iphoneos-arm64e.deb
-Size: 1198312
-MD5sum: 8ac51ac095b7888b3eaf2882d6dad70e
-SHA256: 95ac6ec1fc045aa6f4db1b5efcc4be7cc3a55a8937e03936f431ba8015417e9f
+Size: 1198174
+MD5sum: 658d542e5454eb9a1b063f80bd3dac6e
+SHA256: d5829ff221928f0b1c01b6f4be753715dcc2f61e240b70b9b6c696ab9af40f30
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
 
@@ -75,7 +75,7 @@ Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
 Filename: debs/com.qq391160.pulloverplus_1.0.565_iphoneos-arm64.deb
 Size: 599804
-MD5sum: bdb9bf14e69954ad4a121f5d5cd78858
-SHA256: ae17f92a2fd546a3b920e27ced4b35c96025626f204a4fc3f65e9f3cd52553c6
+MD5sum: 8231cc013a248df411c094d8e6f3ee52
+SHA256: bd3207fa05d145823819938073b2935a7393dafe09b9cce58ff184862d0494ed
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
