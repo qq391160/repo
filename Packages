@@ -41,7 +41,7 @@ SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
-Version: 1.0.565
+Version: 1.0.567
 Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
 Section: Tweaks
 Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
@@ -53,16 +53,16 @@ Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
-Filename: debs/com.qq391160.pulloverplus_1.0.565_iphoneos-arm64e.deb
+Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64e.deb
 Size: 1198174
-MD5sum: 658d542e5454eb9a1b063f80bd3dac6e
-SHA256: d5829ff221928f0b1c01b6f4be753715dcc2f61e240b70b9b6c696ab9af40f30
+MD5sum: cf2b032108c2d2a73cfd64b753b72c6d
+SHA256: 98bea45074947815f6db833fa3b152154210667ffbb7e0700cb63ad6ec98f4ec
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
 
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
-Version: 1.0.565
+Version: 1.0.567
 Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
 Section: Tweaks
 Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
@@ -73,9 +73,9 @@ Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 Maintainer: qq391160
-Filename: debs/com.qq391160.pulloverplus_1.0.565_iphoneos-arm64.deb
+Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64.deb
 Size: 599804
-MD5sum: 8231cc013a248df411c094d8e6f3ee52
-SHA256: bd3207fa05d145823819938073b2935a7393dafe09b9cce58ff184862d0494ed
+MD5sum: 5c25f26fd41f9e70091892b28e50f3fc
+SHA256: 8fea3bd519d04f5d8f33f3e2901a14a904463cdd72993ed2f13a7ee195a42154
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json

@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**版本**　1.0.565\n\n**作者**　qq391160\n\n**依赖**　AltList"
+          "markdown": "**版本**　1.0.567\n\n**作者**　qq391160\n\n**依赖**　AltList"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.0.565 · 2026-10-07\n- 修复已知问题"
+          "markdown": "## 1.0.567 · 2026-10-07\n- 修复已知问题"
         }
       ]
     }
