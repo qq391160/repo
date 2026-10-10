@@ -10,11 +10,11 @@ Priority: optional
 Depends: firmware (>= 16.0)
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64e
-Version: 2.0.50
-Filename: debs/com.qq391160.cpucore_2.0.50_iphoneos-arm64e.deb
-Size: 526638
-MD5sum: 9c5b5f369f31b7777b62ad8d130d90ea
-SHA256: ad902e5347f5325fc330aff2dd157043d649a67e95cf4d1f8e170ae9428e4cd0
+Version: 2.0.89
+Filename: debs/com.qq391160.cpucore_2.0.89_iphoneos-arm64e.deb
+Size: 562636
+MD5sum: be64b880c785669a92c62e1236fb9833
+SHA256: dc534e1002cb32b55c9d82756335866f89590bbd158e54bb9ec73245d7c26685
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -30,11 +30,11 @@ Priority: optional
 Depends: firmware (>= 16.0)
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Architecture: iphoneos-arm64
-Version: 2.0.50
-Filename: debs/com.qq391160.cpucore_2.0.50_iphoneos-arm64.deb
-Size: 494504
-MD5sum: 807baf5de9a9d3e129de0a5dc783e1d8
-SHA256: 88694e798a62d602a6a8660b5e1ab31704149baa73a25901253de8a49c161b07
+Version: 2.0.89
+Filename: debs/com.qq391160.cpucore_2.0.89_iphoneos-arm64.deb
+Size: 527374
+MD5sum: 109486f9fb0984e41206179ed57da116
+SHA256: 730f0217496e391d440b51fbc33f1429d45e7b6de25eeb1d828fa56ffd8d0d55
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
