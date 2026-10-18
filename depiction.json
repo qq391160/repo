@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**版本**　2.0.129\n\n**作者**　qq391160\n\n**适用环境**　roothide / rootless"
+          "markdown": "**版本**　2.0.142\n\n**作者**　qq391160\n\n**适用环境**　roothide / rootless"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 2.0.129 · 2026-10-16\n- 新增 APP 档位显示常用档，修复防暗屏偶发失效"
+          "markdown": "## 2.0.142 · 2026-10-18\n- 修复已知问题"
         }
       ]
     }
