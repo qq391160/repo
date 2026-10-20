@@ -7,12 +7,12 @@ Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 木子为李，清风自来。
 SileoDepiction: https://qq391160.github.io/repo/source.json
-Date: Sun, 18 Oct 2026 16:40:22 UTC
+Date: Tue, 20 Oct 2026 05:10:37 UTC
 MD5Sum:
- ce47db5123d807288aee19f81e49658c 3897 Packages
- 641e33ab8648d9f98fa7ac3b8ced32ce 1341 Packages.bz2
- b58ed97aec577b624c7d2a4d875e1bf8 1155 Packages.gz
+ 0959233e6d67aa86671b4d6916deaa2d 3897 Packages
+ 4c5f504d3ffd26fc4731adf493648519 1344 Packages.bz2
+ 63e8a9fd765d06206f1b13535b81f696 1155 Packages.gz
 SHA256:
- 6abd312199569427600dfa8a2012c7ba389488bbf9881abd862e96ba816637c8 3897 Packages
- 090c19dd307cd1e92783c708c4e8f473522bd178a41996a0183765e074ed6b9b 1341 Packages.bz2
- 78f3ecd9c19197f628351453121ddeec6915345002f986a10e3d13b7c8674f54 1155 Packages.gz
+ d0e6bf0e9691b8999d68a226cd4cbaa58a9f901975ba3ec7b7f9f41439e73c22 3897 Packages
+ b8f227397cfda13d24c7a8dafa37b3d79dff8319084e8d82be43efe06afbb35b 1344 Packages.bz2
+ c4b334c73cea7252b9d91cf492136b8ff2e05c70fc449f1f1cadb4856d753529 1155 Packages.gz

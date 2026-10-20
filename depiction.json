@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**版本**　2.0.146\n\n**作者**　qq391160\n\n**适用环境**　roothide / rootless"
+          "markdown": "**版本**　2.0.158\n\n**作者**　qq391160\n\n**适用环境**　roothide / rootless"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 2.0.146 · 2026-10-19\n- 修复已知问题"
+          "markdown": "## 2.0.158 · 2026-10-20\n- 提升兼容性与稳定性"
         }
       ]
     }
