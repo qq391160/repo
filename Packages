@@ -7,14 +7,15 @@ Section: Tweaks
 Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Priority: optional
-Depends: firmware (>= 16.0)
 Icon: https://qq391160.github.io/repo/icons/thermal.png
-Architecture: iphoneos-arm64e
-Version: 2.0.158
-Filename: debs/com.qq391160.cpucore_2.0.158_iphoneos-arm64e.deb
-Size: 677202
-MD5sum: 07e387bdc31d944146e2a269671afb68
-SHA256: b648707c29cb9e4fa063b5ae8def43b942895bd59fe547fb18c161db05759481
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 2.0.288
+Installed-Size: 4108
+Filename: debs/com.qq391160.cpucore_2.0.288_iphoneos-arm64.deb
+Size: 635944
+MD5sum: 8573edf91f66493d80443c51328c1da1
+SHA256: f51b77633d1fe393077316f5206b79c9dc4fc36ad32b240fb6b770b213f6c4e5
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
@@ -27,54 +28,14 @@ Section: Tweaks
 Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Priority: optional
-Depends: firmware (>= 16.0)
 Icon: https://qq391160.github.io/repo/icons/thermal.png
-Architecture: iphoneos-arm64
-Version: 2.0.158
-Filename: debs/com.qq391160.cpucore_2.0.158_iphoneos-arm64.deb
-Size: 612154
-MD5sum: bec613d59d09c4be1f128412920ddb19
-SHA256: fb79d07165c9942f3f09ea5e55f449a35eed18e0600674840d49175eab227aa2
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64e
+Version: 2.0.288
+Installed-Size: 4376
+Filename: debs/com.qq391160.cpucore_2.0.288_iphoneos-arm64e.deb
+Size: 702592
+MD5sum: b542947a1c682cf682fa5d0c9abf161f
+SHA256: 2bfbe0894b60ae0581a3d5a4ad0d79004a06e15056e87075e79eb952fdf3d41e
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
-
-Package: com.qq391160.pulloverplus
-Name: PullOver Plus
-Version: 1.0.567
-Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
-Section: Tweaks
-Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
-Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
-Priority: optional
-Pre-Depends: rootless-compat(>= 0.9)
-Architecture: iphoneos-arm64e
-Author: qq391160（基于 mlgm 的 PullOver X）
-dev: mlgm
-Icon: https://mlgm66.github.io/icon/pullover.png
-Maintainer: qq391160
-Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64e.deb
-Size: 1198174
-MD5sum: cf2b032108c2d2a73cfd64b753b72c6d
-SHA256: 98bea45074947815f6db833fa3b152154210667ffbb7e0700cb63ad6ec98f4ec
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
-
-Package: com.qq391160.pulloverplus
-Name: PullOver Plus
-Version: 1.0.567
-Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
-Section: Tweaks
-Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
-Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
-Priority: optional
-Architecture: iphoneos-arm64
-Author: qq391160（基于 mlgm 的 PullOver X）
-dev: mlgm
-Icon: https://mlgm66.github.io/icon/pullover.png
-Maintainer: qq391160
-Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64.deb
-Size: 599804
-MD5sum: 5c25f26fd41f9e70091892b28e50f3fc
-SHA256: 8fea3bd519d04f5d8f33f3e2901a14a904463cdd72993ed2f13a7ee195a42154
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
