@@ -36,7 +36,7 @@
    "views": [
     {
      "class": "DepictionMarkdownView",
-     "markdown": "**2.0.292**\n\n新增部分功能，修复已知问题"
+     "markdown": "**2.0.298**\n\n新增部分功能"
     }
    ]
   }
