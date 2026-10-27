@@ -1,37 +1,16 @@
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
-Author: qq391160
-Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
-Maintainer: qq391160
-Section: Tweaks
-Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
-Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
-Priority: optional
-Icon: https://qq391160.github.io/repo/icons/thermal.png
-Depends: firmware (>= 16.0)
-Architecture: iphoneos-arm64
 Version: 2.0.298
-Installed-Size: 4340
-Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64.deb
-Size: 661346
-MD5sum: f8e4ab19adc61f2bab8b309261e8ef93
-SHA256: 2cc966a5cafa8b194f9d8eb43e22bfbf915ba0ac3a12e0f68970c1540193c520
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
-
-Package: com.qq391160.cpucore
-Name: CPU智能温控(iOS16/17)
-Author: qq391160
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
-Maintainer: qq391160
 Section: Tweaks
 Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Priority: optional
-Icon: https://qq391160.github.io/repo/icons/thermal.png
-Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
-Version: 2.0.298
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Maintainer: qq391160
 Installed-Size: 4624
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64e.deb
 Size: 728094
@@ -42,17 +21,59 @@ SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
-Author: qq391160
+Version: 2.0.298
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
-Maintainer: qq391160
 Section: Tweaks
 Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
 Priority: optional
+Architecture: iphoneos-arm64
+Author: qq391160
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
-Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4340
+Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64.deb
+Size: 661346
+MD5sum: f8e4ab19adc61f2bab8b309261e8ef93
+SHA256: 2cc966a5cafa8b194f9d8eb43e22bfbf915ba0ac3a12e0f68970c1540193c520
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
 Version: 2.0.292
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Architecture: iphoneos-arm64e
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Maintainer: qq391160
+Installed-Size: 4408
+Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64e.deb
+Size: 711922
+MD5sum: 758ba33715e6f66d9769ec73fd6de05f
+SHA256: 6c3c41eba07f90bb0feba154c449a36875dff546e51a500036d9bd7bba594316
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Version: 2.0.292
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Architecture: iphoneos-arm64
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Maintainer: qq391160
 Installed-Size: 4108
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64.deb
 Size: 644838
@@ -61,23 +82,43 @@ SHA256: f430c7d2dc3a39318a66754b66354bda3cb8523a52eeb49367398b8832c9591e
 Depiction: https://qq391160.github.io/repo/depiction.html
 SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
-Package: com.qq391160.cpucore
-Name: CPU智能温控(iOS16/17)
-Author: qq391160
-Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
-Maintainer: qq391160
+Package: com.qq391160.pulloverplus
+Name: PullOver Plus
+Version: 1.0.567
+Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
 Section: Tweaks
-Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
-Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
 Priority: optional
-Icon: https://qq391160.github.io/repo/icons/thermal.png
-Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Author: qq391160（基于 mlgm 的 PullOver X）
+dev: mlgm
+Icon: https://mlgm66.github.io/icon/pullover.png
+Maintainer: qq391160
+Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64.deb
+Size: 599804
+MD5sum: 5c25f26fd41f9e70091892b28e50f3fc
+SHA256: 8fea3bd519d04f5d8f33f3e2901a14a904463cdd72993ed2f13a7ee195a42154
+Depiction: https://qq391160.github.io/repo/depiction-pullover.html
+SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
+
+Package: com.qq391160.pulloverplus
+Name: PullOver Plus
+Version: 1.0.567
+Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
+Section: Tweaks
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Priority: optional
+Pre-Depends: rootless-compat(>= 0.9)
 Architecture: iphoneos-arm64e
-Version: 2.0.292
-Installed-Size: 4408
-Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64e.deb
-Size: 711922
-MD5sum: 758ba33715e6f66d9769ec73fd6de05f
-SHA256: 6c3c41eba07f90bb0feba154c449a36875dff546e51a500036d9bd7bba594316
-Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+Author: qq391160（基于 mlgm 的 PullOver X）
+dev: mlgm
+Icon: https://mlgm66.github.io/icon/pullover.png
+Maintainer: qq391160
+Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64e.deb
+Size: 1198174
+MD5sum: cf2b032108c2d2a73cfd64b753b72c6d
+SHA256: 98bea45074947815f6db833fa3b152154210667ffbb7e0700cb63ad6ec98f4ec
+Depiction: https://qq391160.github.io/repo/depiction-pullover.html
+SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
