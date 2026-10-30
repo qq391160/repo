@@ -1,44 +1,44 @@
 {
- "class": "DepictionTabView",
- "minVersion": "0.1",
- "headerImage": "https://qq391160.github.io/repo/banner.png",
- "tabs": [
-  {
-   "class": "DepictionStackView",
-   "tabname": "插件介绍",
-   "views": [
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "headerImage": "https://qq391160.github.io/repo/banner.png",
+  "tabs": [
     {
-     "class": "DepictionMarkdownView",
-     "markdown": "本版由 qq391160 维护（基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改）。"
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**PullOver Plus** —— 分屏 / 多任务增强插件：把任意 App 拖出来变成可移动的小窗，随手切换、随时并排。\n\n本版由 qq391160 维护（基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改）。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**版本**　1.0.567\n\n**作者**　qq391160\n\n**依赖**　AltList"
+        }
+      ]
     },
     {
-     "class": "DepictionSeparatorView"
+      "class": "DepictionStackView",
+      "tabname": "联系我们",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**联系作者**\n\n遇到问题、想反馈 bug、提建议，都欢迎找我：\n\n**👉 [加我 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)**\n\n**👉 [发送邮件](mailto:391160@qq.com)**\n\nQQ：391160　｜　邮箱：391160@qq.com"
+        }
+      ]
     },
     {
-     "class": "DepictionMarkdownView",
-     "markdown": "**版本**　1.0.567\n\n**作者**　qq391160"
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.567 · 2026-10-07\n- 修复已知问题"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "class": "DepictionStackView",
-   "tabname": "联系我们",
-   "views": [
-    {
-     "class": "DepictionMarkdownView",
-     "markdown": "**联系作者**\n\n遇到问题、想反馈 bug、提建议，都欢迎找我：\n\n**👉 [加我 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)**\n\n**👉 [发送邮件](mailto:391160@qq.com)**\n\nQQ：391160　｜　邮箱：391160@qq.com"
-    }
-   ]
-  },
-  {
-   "class": "DepictionStackView",
-   "tabname": "更新日志",
-   "views": [
-    {
-     "class": "DepictionMarkdownView",
-     "markdown": "## 1.0.567 · 2026-10-07\n- 修复已知问题"
-    }
-   ]
-  }
- ]
+  ]
 }

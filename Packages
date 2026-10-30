@@ -11,13 +11,13 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.319
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Installed-Size: 4608
 Filename: debs/com.qq391160.cpucore_2.0.319_iphoneos-arm64e.deb
 Size: 716622
 MD5sum: c80fe9c62559e92a6059217b55370d26
 SHA256: dc777b7d12fabbd6ec4747777bed1ac1f387909ff1ccad58a7ec9da2ba48672e
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
@@ -32,13 +32,13 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.319
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Installed-Size: 4336
 Filename: debs/com.qq391160.cpucore_2.0.319_iphoneos-arm64.deb
 Size: 652326
 MD5sum: 1525c893a52a8870660b8e34a271000d
 SHA256: 339666bd800f58b064619db57e70d67148da0a46c09becbf3f7f3b134c160041
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
@@ -53,13 +53,13 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.298
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Installed-Size: 4340
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64.deb
 Size: 661346
 MD5sum: f8e4ab19adc61f2bab8b309261e8ef93
 SHA256: 2cc966a5cafa8b194f9d8eb43e22bfbf915ba0ac3a12e0f68970c1540193c520
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
@@ -74,13 +74,13 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.298
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Installed-Size: 4624
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64e.deb
 Size: 728094
 MD5sum: c97a1ad90dbfe35cccb9620351e65db5
 SHA256: 74e60022f804f9e0a2b2da0c5fd380ea568c0bb4c12affe890f0514bb5772818
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
@@ -95,13 +95,13 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.292
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Installed-Size: 4408
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64e.deb
 Size: 711922
 MD5sum: 758ba33715e6f66d9769ec73fd6de05f
 SHA256: 6c3c41eba07f90bb0feba154c449a36875dff546e51a500036d9bd7bba594316
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
@@ -116,13 +116,13 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.292
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
 Installed-Size: 4108
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64.deb
 Size: 644838
 MD5sum: 387f5aca2406e4c769e22f750a6dbcc1
 SHA256: f430c7d2dc3a39318a66754b66354bda3cb8523a52eeb49367398b8832c9591e
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
@@ -136,12 +136,12 @@ Priority: optional
 Icon: https://mlgm66.github.io/icon/pullover.png
 Architecture: iphoneos-arm64e
 Version: 1.0.567
+SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
 Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64e.deb
 Size: 1198174
 MD5sum: cf2b032108c2d2a73cfd64b753b72c6d
 SHA256: 98bea45074947815f6db833fa3b152154210667ffbb7e0700cb63ad6ec98f4ec
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
 
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
@@ -155,9 +155,9 @@ Priority: optional
 Icon: https://mlgm66.github.io/icon/pullover.png
 Architecture: iphoneos-arm64
 Version: 1.0.567
+SileoDepiction: https://qq391160.github.io/repo/depiction-pullover.json
 Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64.deb
 Size: 599804
 MD5sum: 5c25f26fd41f9e70091892b28e50f3fc
 SHA256: 8fea3bd519d04f5d8f33f3e2901a14a904463cdd72993ed2f13a7ee195a42154
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
