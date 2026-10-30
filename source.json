@@ -1,43 +1,44 @@
 {
-  "class": "DepictionTabView",
-  "minVersion": "0.1",
-  "tintColor": "#2AA198",
-  "headerImage": "https://qq391160.github.io/repo/banner.png",
-  "tabs": [
+ "class": "DepictionTabView",
+ "minVersion": "0.1",
+ "headerImage": "https://qq391160.github.io/repo/banner.png",
+ "tabs": [
+  {
+   "class": "DepictionStackView",
+   "tabname": "插件介绍",
+   "views": [
     {
-      "class": "DepictionStackView",
-      "tabname": "介绍",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**木子清风** —— qq391160 的插件源。\n\n木子为李，清风自来。"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "作者",
-          "text": "qq391160"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "插件数",
-          "text": "2"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "支持环境",
-          "text": "roothide / rootless（双架构）"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**联系我：**  [加 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)  ｜  [发送邮件](mailto:391160@qq.com)"
-        }
-      ]
+     "class": "DepictionMarkdownView",
+     "markdown": "**CPU 智能温控** —— 为越狱 iPhone 打造的智能温控管理插件。\n\n注入温控守护进程，接管 CPU/GPU 频率与功率策略，让你在**省电**与**性能**之间自由切换。\n\n**功能亮点**\n\n- **三种常驻模式**：智能 / 低功耗 / 性能模式，一键切换\n- **游戏强制满频**：识别为游戏的 App 全程满频，其它 App 照常省电\n- **App 档位**：每个应用可单独钉「满频 / 低频率 / 原生 / 自动」\n- **状态浮窗**：频率 · 模式 · 深度/提速，另可显示 电量 / 温度 / 帧率 / CPU / 内存 / 时间 / 下载 / 上传；字号 6~20、可隐藏背景、长按锁定、位置微调\n- **无操作深度省电** + **视频场景优化**\n- **一键自检**：30 秒体检，给出频率/温度报告\n- **定时切档**：按星期与时段自动切换档位\n- **充电管家**：充电上限（到点停充）+ 实时显示\n- **温控保护**：防暗屏 / 高温警告 / 过热保护\n- **高刷解锁**：持续 120，丝滑流畅\n- **后台管控**：禁后台刷新 / 后台网络 / 自动启动，伪装低电量模式，省电模式不自动锁屏，电池保持原色，禁用内存压力\n- **低功耗增强**：桌面原生频率\n\n安装前建议先卸载旧的「CPU 智能温控」；本包已内置自动替换。"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "**版本**　2.0.319\n\n**作者**　qq391160\n\n**适用环境**　roothide / rootless"
     }
-  ]
+   ]
+  },
+  {
+   "class": "DepictionStackView",
+   "tabname": "联系我们",
+   "views": [
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "**联系作者**\n\n遇到问题、想反馈 bug、提建议，都欢迎找我：\n\n**👉 [加我 QQ 好友](https://qm.qq.com/q/VyLa5l8g2m)**\n\n**👉 [发送邮件](mailto:391160@qq.com)**\n\nQQ：391160　｜　邮箱：391160@qq.com"
+    }
+   ]
+  },
+  {
+   "class": "DepictionStackView",
+   "tabname": "更新日志",
+   "views": [
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "## 2.0.319\n- 修复已知问题\n\n## 2.0.298\n- 新增部分功能，修复已知问题\n\n## 2.0.292\n- 新增部分功能，修复已知问题"
+    }
+   ]
+  }
+ ]
 }
