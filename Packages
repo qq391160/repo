@@ -11,7 +11,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.319
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
 Installed-Size: 4608
 Filename: debs/com.qq391160.cpucore_2.0.319_iphoneos-arm64e.deb
 Size: 716622
@@ -32,7 +32,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.319
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
 Installed-Size: 4336
 Filename: debs/com.qq391160.cpucore_2.0.319_iphoneos-arm64.deb
 Size: 652326
@@ -53,7 +53,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.298
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
 Installed-Size: 4340
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64.deb
 Size: 661346
@@ -74,7 +74,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.298
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
 Installed-Size: 4624
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64e.deb
 Size: 728094
@@ -95,7 +95,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.292
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
 Installed-Size: 4408
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64e.deb
 Size: 711922
@@ -116,7 +116,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.292
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
 Installed-Size: 4108
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64.deb
 Size: 644838
