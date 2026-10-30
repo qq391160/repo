@@ -10,8 +10,50 @@ Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
+Version: 2.0.322
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
+Installed-Size: 4608
+Filename: debs/com.qq391160.cpucore_2.0.322_iphoneos-arm64e.deb
+Size: 717392
+MD5sum: a7c8423d41acbd151fed595d6764f8dc
+SHA256: 92113e5c4068246944a79aca6057509479490513b354693182134d0ea8bfb04e
+Depiction: https://qq391160.github.io/repo/depiction.html
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 2.0.322
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
+Installed-Size: 4336
+Filename: debs/com.qq391160.cpucore_2.0.322_iphoneos-arm64.deb
+Size: 651844
+MD5sum: 8ee1884817993b9262de95c92182f325
+SHA256: b0014af0f504cf4464676ae7c1c095da986871c3191ddd03ed9acdc4b479811c
+Depiction: https://qq391160.github.io/repo/depiction.html
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64e
 Version: 2.0.319
-SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
 Installed-Size: 4608
 Filename: debs/com.qq391160.cpucore_2.0.319_iphoneos-arm64e.deb
 Size: 716622
@@ -32,7 +74,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.319
-SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
 Installed-Size: 4336
 Filename: debs/com.qq391160.cpucore_2.0.319_iphoneos-arm64.deb
 Size: 652326
@@ -53,7 +95,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.298
-SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
 Installed-Size: 4340
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64.deb
 Size: 661346
@@ -74,7 +116,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.298
-SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
 Installed-Size: 4624
 Filename: debs/com.qq391160.cpucore_2.0.298_iphoneos-arm64e.deb
 Size: 728094
@@ -95,7 +137,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.292
-SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
 Installed-Size: 4408
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64e.deb
 Size: 711922
@@ -116,7 +158,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.292
-SileoDepiction: https://qq391160.github.io/repo/depiction-319.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-322.json
 Installed-Size: 4108
 Filename: debs/com.qq391160.cpucore_2.0.292_iphoneos-arm64.deb
 Size: 644838
