@@ -11,7 +11,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.350
-SileoDepiction: https://qq391160.github.io/repo/depiction-350.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-350b.json
 Installed-Size: 4584
 Filename: debs/com.qq391160.cpucore_2.0.350_iphoneos-arm64e.deb
 Size: 704898
@@ -32,7 +32,7 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 2.0.350
-SileoDepiction: https://qq391160.github.io/repo/depiction-350.json
+SileoDepiction: https://qq391160.github.io/repo/depiction-350b.json
 Installed-Size: 4308
 Filename: debs/com.qq391160.cpucore_2.0.350_iphoneos-arm64.deb
 Size: 637382
