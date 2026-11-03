@@ -1,3 +1,41 @@
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 2.0.432
+SileoDepiction: https://qq391160.github.io/repo/depiction-432.json
+Filename: debs/com.qq391160.cpucore_2.0.432_iphoneos-arm64.deb
+Size: 649568
+MD5sum: 98bf35ccc222d9fc24cbcacc9cea2c19
+SHA256: fe8ea5c90c2bfebb0fd8bac5d48f87deeb3596f069686a676095427d73c93111
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64e
+Version: 2.0.432
+SileoDepiction: https://qq391160.github.io/repo/depiction-432.json
+Filename: debs/com.qq391160.cpucore_2.0.432_iphoneos-arm64e.deb
+Size: 718190
+MD5sum: 170f488be56dd882fa960ebb4c805cd9
+SHA256: cd3625d0efeca9a97ba83276f876d7b1a94c90147c8f4d034d23e3f0674df565
+
 Package: com.qq391160.pulloverplus
 Name: PullOver Plus
 Author: qq391160（基于 mlgm 的 PullOver X）
