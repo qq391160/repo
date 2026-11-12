@@ -10,6 +10,48 @@ Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
+Version: 2.0.500
+Installed-Size: 4700
+Filename: debs/com.qq391160.cpucore_2.0.500_iphoneos-arm64e.deb
+Size: 750988
+MD5sum: b4722f7c6b26a29feae2a0480aa84b0e
+SHA256: 2048689e6f280442912d4eeb9482c8cf84d5d3e35fc8704cbd1b077f62054f06
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 2.0.500
+Installed-Size: 4700
+Filename: debs/com.qq391160.cpucore_2.0.500_iphoneos-arm64.deb
+Size: 675544
+MD5sum: 96ce9b44ded0e7fd83ebaf79ab5f09af
+SHA256: d667d60510e4643f8cd343acf94830859eec0d37f8ca708ddac21e6e6877092f
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64e
 Version: 2.0.495
 Installed-Size: 4700
 Filename: debs/com.qq391160.cpucore_2.0.495_iphoneos-arm64e.deb
