@@ -1,14 +1,16 @@
-Origin: qq391160
-Label: 木子清风
+Origin: CPU智能温控源
+Label: 木子清风源
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 木子为李，清风自来。
-SileoDepiction: https://qq391160.github.io/repo/source.json
-Date: Thu, 12 Nov 2026 16:32:00 UTC
+Description: CPU智能温控 / PullOver Plus
 MD5Sum:
- 5946d4aa4fda90f040dca42a7286bcd4 23186 Packages
- 12f8ca455fa9b4a7baede598da761adb 2932 Packages.bz2
- 0a48c1438da5bdb2c153c953b60ba306 2728 Packages.gz
+ 78f56bb81d6cb6604cfff079bac7aa43 25342 Packages
+ a1e27239058ade7e4076012e5cbb6e52 3101 Packages.bz2
+ e781ad16e2065c75d60ce1856070eae4 2908 Packages.gz
+SHA256:
+ d04d3a43ac652021f6649f0b534e5b08fd5e51df8f1d3f77f1dec77b29aca191 25342 Packages
+ 6616629cd24486e73675842c69fa624c745251c7ac33d4ac9e1a18aee930fa01 3101 Packages.bz2
+ e8058003e39ed181ded87fd5dc9d9c6574b489688bdc7dd8969676bfc152c2e7 2908 Packages.gz
