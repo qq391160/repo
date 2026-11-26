@@ -17,7 +17,7 @@ Size: 772198
 MD5sum: 0e66cb96c45c655f8fb4d1fb8c10d6b0
 SHA256: e0a07fe5d860aff583449dc6d94ce64e44ed6564dc71a9600782dde85d107a7b
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction.json?v=628
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
@@ -38,7 +38,7 @@ Size: 694004
 MD5sum: d6b08f0de5291d2afaf6660920f5072e
 SHA256: 54309a4fc5542849b9ae30af8c3bae880f7e94c3f21577b166956b358d760e0b
 Depiction: https://qq391160.github.io/repo/depiction.html
-SileoDepiction: https://qq391160.github.io/repo/depiction.json
+SileoDepiction: https://qq391160.github.io/repo/depiction.json?v=628
 
 Package: com.qq391160.cpucore
 Name: CPU智能温控(iOS16/17)
