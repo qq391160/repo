@@ -9,6 +9,48 @@ Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpus
 Priority: optional
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 2.0.630
+Installed-Size: 4508
+Filename: debs/com.qq391160.cpucore_2.0.630_iphoneos-arm64.deb
+Size: 694944
+MD5sum: 31f90649891e5e0498e8944a742fd6a0
+SHA256: e8a532be9c120042390eaf29794a0fc866c40b6863a1cfea2a5e9ea759224380
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json?v=630
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
+Architecture: iphoneos-arm64e
+Version: 2.0.630
+Installed-Size: 4812
+Filename: debs/com.qq391160.cpucore_2.0.630_iphoneos-arm64e.deb
+Size: 772654
+MD5sum: 4c8f93a30b187af8c9156abe961ce5af
+SHA256: bdc4128852274492aff4461914204003b7187b9ce3c47a6568e93083896fc693
+Depiction: https://qq391160.github.io/repo/depiction.html
+SileoDepiction: https://qq391160.github.io/repo/depiction.json?v=630
+
+Package: com.qq391160.cpucore
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Maintainer: qq391160
+Section: Tweaks
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Priority: optional
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Depends: firmware (>= 16.0)
 Architecture: iphoneos-arm64e
 Version: 2.0.500
 Installed-Size: 4700
