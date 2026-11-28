@@ -7,10 +7,10 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: CPU智能温控 / PullOver Plus
 MD5Sum:
- 14ec3b764aa9a2595d5ffb004e386745 25354 Packages
- 812a63bef7643e93f37f37883108af58 3111 Packages.bz2
- 0a2c4da2d30ab24f13a7709ea506729d 2915 Packages.gz
+ 5946d4aa4fda90f040dca42a7286bcd4 23186 Packages
+ 12f8ca455fa9b4a7baede598da761adb 2932 Packages.bz2
+ 0a48c1438da5bdb2c153c953b60ba306 2728 Packages.gz
 SHA256:
- 736181a8ac01385ce2fc6ddca04944c6dde85872645a283dd39ef09682125dbd 25354 Packages
- fb0c83f8a8bc889f4c4e297a5c51c5f6332c05e14c901497b1d75526461cecb6 3111 Packages.bz2
- 6629fab93f6dc92aff295caad2bce47e8ec269128848115d4587c2b7bfdc262a 2915 Packages.gz
+ 50c33bae186b120a934f9b2ce87a3c14378192fbf71a9a16baacfe0cba050a58 23186 Packages
+ 2621fa63249f0d73170133a0287097c49af4af48a8f979fdd4a1f8231738cdc7 2932 Packages.bz2
+ a65dabc4f8b58ae468391fc5d2e6eda0f84d3849f38a9e2ae9210affe11b5ab4 2728 Packages.gz
